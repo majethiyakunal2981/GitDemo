@@ -6,6 +6,8 @@ GitHub is repository which is used for Version Control Managment
 
 First command is git init which need to initalize empty git respority on desired location 
 
+When you create/initalize empty git repo by default you will be on master branch 
+
 Git Steps ::
 
 git init :: Initalize empty git repository
@@ -16,6 +18,13 @@ git status  :: Will give you list of files added in stash
 
 git commit -m "Commit Message" :: It will commmit code. -m is for commit message
 
+git remote add origin https://github.com/majethiyakunal2981/GitDemo.git :: It will connnect to your remote repository
+
+git push origin master :: it will push only committed code master branch to GitHup connected Repo.
+
+git clone "Repo Link" :: This command is used only when you are freshly taking code from repo first time.
+
+git pull :: It will pull recent changes done by other and update your current things
 
 Imp Notes ::
 
