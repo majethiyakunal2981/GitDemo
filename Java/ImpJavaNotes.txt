@@ -1,0 +1,6 @@
+Java Important Notes ::
+
+
+Primitive data types are int,char,float,boolean,double which are alredy definded by Java and can't be null
+
+String, Array, Class, Interface are non premitive data type and can be null 
