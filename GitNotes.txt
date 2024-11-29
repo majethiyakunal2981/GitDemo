@@ -1,0 +1,28 @@
+Git Notes ::
+
+You need git software to flow the project from Machine to GitHub
+
+GitHub is repository which is used for Version Control Managment 
+
+First command is git init which need to initalize empty git respority on desired location 
+
+Git Steps ::
+
+git init :: Initalize empty git repository
+
+git add  * :: Add files to staging. * means all files present on location
+
+git status  :: Will give you list of files added in stash
+
+git commit -m "Commit Message" :: It will commmit code. -m is for commit message
+
+
+Imp Notes ::
+
+Without commit files will not get published in GitHub Repo
+
+First code needs to be added in Staging and then you can commit it in GitHub Repo
+
+How to add files in staging :: git add * [Here star means all files present on location]
+
+git status  -> Will give you list of files added in stash
